@@ -1,0 +1,464 @@
+a*{
+    margin: 0;
+    padding: 0;
+}
+#kepala{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    background-image: url(pola\ pusing.png);
+}
+#badan{
+    height: 5%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    margin-top: 8px;
+}
+#kaki{
+    height: 1000px;
+    width: 100%;
+}
+#induk{
+    height: 1000px;
+    width: 100%;
+}
+#pilihan{
+    height: 100%;
+    width: 17%;
+    background-color: rgb(228, 220, 220);
+    margin: auto;
+    border-radius: 20px;
+}
+#pilihan2{
+    height: 100%;
+    width: 17%;
+    background-color: rgb(228, 220, 220);
+    margin: auto;
+    border-radius: 20px;
+}
+#pilihan3{
+    height: 100%;
+    width: 17%;
+    background-color: rgb(228, 220, 220);
+    margin: auto;
+    border-radius: 20px;
+}
+#pilihan4{
+    height: 100%;
+    width: 17%;
+    background-color: rgb(228, 220, 220);
+    margin: auto;
+    border-radius: 20px;
+}
+#pilihan5{
+    height: 100%;
+    width: 17%;
+    background-color: rgb(228, 220, 220);
+    margin: auto;
+    border-radius: 20px;
+}
+#pilihan:hover{
+    background-color: black;
+    color: white;
+    transition: .4s ease-in;
+}
+#pilihan2:hover{
+    background-color: black;
+    color: white;
+    transition: .4s ease-in;
+}
+#pilihan3:hover{
+    background-color: black;
+    color: white;
+    transition: .4s ease-in;
+}
+#pilihan4:hover{
+    background-color: black;
+    color: white;
+    transition: .4s ease-in;
+}
+#pilihan5:hover{
+    background-color: black;
+    color: white;
+    transition: .4s ease-in;
+}
+.adik{
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    padding-bottom: 10px;
+}
+#j-kaki{
+    padding-left: 465px;
+    padding-top: 80px;
+    width: 75vh;
+}
+#fto{
+    margin:auto;
+    height: 300px;
+    width: 300px;
+}
+#ftho{
+    height: 400px;
+    width: 300px;
+    border-radius: 8px;
+}
+#prof{
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    display: none;
+}
+#profil{
+    height:1000px ;
+    width: 100%;
+    display: flex;
+}
+#profile{
+    width: 30%;
+    height: 60%;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+#profils{
+    width: 50%;
+    height: 100%;
+}
+#pro{
+    padding-top: 20px;
+}
+#gbr{
+    width: 100%;
+    height: 100%;
+}
+#artikel{
+    height: 1000px;
+    width: 100%;
+    display: none;
+}
+#artik{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+#teks{
+    width: 30%;
+    height: 5%;
+    background-color: rgb(231, 226, 226);
+    margin: auto;
+    text-align: center;
+    border-radius: 12px;
+    margin-top: 3px;
+    cursor: pointer;
+}
+#gbr2{
+    height: 300px;
+    width: 500px;
+    padding-top: 30px;
+    margin-right: 100px;
+}
+#arti{
+    text-align: center;
+    background-color: rgb(231, 226, 226);
+    height: 25%;
+    border-radius: 20px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+#galery{
+    height: 1000px;
+    width: 100%;
+    background-color: cornflowerblue;
+    display: none;
+}
+#isi-galery{
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+    display: none;
+}
+#isi-one{
+    height: 500px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    margin-top: 10px;
+}
+#back{
+    height: 50px;
+    width: 10%;
+    background-color: rgb(212, 174, 90);
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+}#back2{
+    height: 50px;
+    width: 10%;
+    background-color: rgb(212, 174, 90);
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+}#back3{
+    height: 50px;
+    width: 10%;
+    background-color: rgb(212, 174, 90);
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+}#back4{
+    height: 50px;
+    width: 10%;
+    background-color: rgb(212, 174, 90);
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+}
+#back:hover{
+    background-color: rgb(221, 188, 126);
+}
+.isi-nih{
+    height: 450px;
+    width: 30%;
+    margin: auto;border-radius: 10px;
+    background-color: chartreuse;
+}
+#isi-galery2{
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+    display: none;
+}
+#isi-one2{
+    height: 500px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    margin-top: 10px;
+}
+.isi-nih2{
+    height: 440px;
+    width: 30%;
+    margin: auto;border-radius: 10px;
+    background-color: chartreuse;
+}
+#isi-galery3{
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+    display: none;
+}
+#isi-one3{
+    height: 500px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+}
+.isi-nih3{
+    height: 440px;
+    width: 30%;
+    margin: auto;border-radius: 10px;
+    background-color: chartreuse;
+}
+#isi-galery4{
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+    display: none;
+}
+#isi-one4{
+    height: 500px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+}
+.isi-nih4{
+    height: 440px;
+    width: 30%;
+    margin: auto;border-radius: 10px;
+    background-color: chartreuse;
+}
+#boom{
+    height: 533px;
+    width: 100%;
+    background-color: azure;
+    display: flex;
+}
+#bhom{
+    height: 533px;
+    width: 100%;
+    background-color: rgb(226, 226, 193);
+    display: flex;
+}
+.gale{
+    height: 440px;
+    width: 30%;
+    margin: auto;border-radius: 10px;
+    border-top-left-radius: 30px;
+}
+#galhe{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(212, 174, 90);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#galhe2{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(212, 174, 90);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#galhe3{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(212, 174, 90);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#galhe4{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(212, 174, 90);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#galhe:hover{
+    background-color: rgb(221, 188, 126);
+    transition: .4s ease-in-out;
+    cursor: pointer;
+}
+#galhe2:hover{
+    background-color: rgb(221, 188, 126);
+    transition: .4s ease-in-out;
+    cursor: pointer;
+}
+#galhe3:hover{
+    background-color: rgb(221, 188, 126);
+    transition: .4s ease-in-out;
+    cursor: pointer;
+}
+#galhe4:hover{
+    background-color: rgb(221, 188, 126);
+    transition: .4s ease-in-out;
+    cursor: pointer;
+}
+#galer{
+    height: 40px;
+    width: 40%;
+    background-color: rgb(187, 154, 117);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    padding-left: 10px;
+}
+#galer2{
+    height: 40px;
+    width: 40%;
+    background-color: rgb(187, 154, 117);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    padding-left: 10px;
+}
+#galer3{
+    height: 40px;
+    width: 40%;
+    background-color: rgb(187, 154, 117);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    padding-left: 10px;
+}
+#galer4{
+    height: 40px;
+    width: 40%;
+    background-color: rgb(187, 154, 117);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    padding-left: 10px;
+}
+.foto-saya{
+    height: 450px;
+    width: 100%;
+    border-radius: 6px;
+}
+#video{
+    height: 800px;
+    width: 100%;
+    margin-top: 100px;
+    display: none;
+}
+#vid{
+    height: 500px;
+    width: 100%;
+    background-color: beige;
+    display: flex;
+}
+#videyo{
+    height: 500px;
+    width: 100%;
+}
+#vide{
+    height: 500px;
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+}
+#videx{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(230, 207, 174);
+    display: flex;
+}
+.videy{
+    height: 500px;
+    width: 50%;
+    background-color: blue;
+}
+.ket{
+    height: 30px;
+    width: 35%;
+    background-color: rgb(230, 207, 174);
+    text-align: center;
+    border-radius: 12px;
+    padding-bottom: 35px;
+    margin-left: 10px;
+}
+#sgm{
+    width: 8%;
+    height: 100px;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.adik:hover{
+    color: rgb(163, 158, 158);
+}
+#kotk{
+    border-radius: 90px;
+}
+#judoul{
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    padding-bottom: 60px;
+    text-align: center;
+}
+#judol{
+    width: 45%;
+    margin: auto;
+    background-color: rgb(231, 226, 226);
+    border-radius: 25px;
+    margin-top: 8%;
+}
+#sgm{
+    height: 70%;
+    width: 30%;
+}
